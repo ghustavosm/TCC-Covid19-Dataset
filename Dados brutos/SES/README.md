@@ -1,6 +1,7 @@
 # Dados brutos das SES
 
 Dados baixados em: https://brasil.io/dataset/covid19/caso_full/
+
 Data: 29/04/2021
 
 OBS: A configuração para o filtro utilizado está no arquivo filtro.png

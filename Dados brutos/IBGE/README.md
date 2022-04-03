@@ -1,6 +1,7 @@
 # Dados brutos do IBGE
 
 Dados baixados em: https://www.ibge.gov.br/cidades-e-estados/
+
 Data: 30/04/2021
 
 O CSV de cada estado possui as seguintes informações:
